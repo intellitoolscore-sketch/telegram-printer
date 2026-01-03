@@ -72,7 +72,7 @@ Payment instructions:
 
 Send **exactly 5 USDT (Polygon)** to the address below:
 
-0x421A0fb7afC08ACEa5DBa7084258E08CbbB620E5
+
 
 After payment, send the **transaction hash (Tx Hash)** to request activation.
 

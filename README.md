@@ -72,7 +72,7 @@ Payment instructions:
 
 Send **exactly 5 USDT (Polygon)** to the address below:
 
-
+@intellitoolscore in instagram
 
 After payment, send the **transaction hash (Tx Hash)** to request activation.
 
